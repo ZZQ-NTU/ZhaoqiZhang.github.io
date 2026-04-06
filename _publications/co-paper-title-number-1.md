@@ -3,7 +3,7 @@ title: "Generative Large-Scale Pre-trained Models for Automated Ad Bidding Optim
 collection: publications
 category: conferences
 permalink: /publication/co-paper-title-number-1
-excerpt: 'Yu Lei, Jiayang Zhao, Yilei Zhao, **Zhaoqi Zhang**, Linyou Cai, Qianlong Xie, Xingxing Wang.'
+excerpt: 'Yu Lei, Jiayang Zhao, Yilei Zhao, <strong>Zhaoqi Zhang</strong>, Linyou Cai, Qianlong Xie, Xingxing Wang.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'

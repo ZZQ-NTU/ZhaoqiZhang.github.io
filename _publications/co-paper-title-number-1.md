@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 4"
+title: "Generative Large-Scale Pre-trained Models for Automated Ad Bidding Optimization."
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/co-paper-title-number-1
+excerpt: 'Yu Lei, Jiayang Zhao, Yilei Zhao, **Zhaoqi Zhang**, Linyou Cai, Qianlong Xie, Xingxing Wang.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
